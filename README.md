@@ -1,4 +1,4 @@
-# LeadPunt Web
+# Budget App
 
 Open up [localhost:3000](http://localhost:3000) and start clicking around.
 
